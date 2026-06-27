@@ -1,9 +1,9 @@
 # 🚀 Pet Clinic System (Odoo)
 
-Halo semuanya! 👋
+Hey everyone! 👋
 
-Di repo ini, aku nyimpen modul dan konfigurasi Odoo khusus untuk project **Pet Clinic**. Fokus utamanya sih bikin sistem yang bener-bener fungsional tapi tetep simpel dan gampang di-manage.
+This repo holds all the Odoo modules and configurations I put together specifically for the **Pet Clinic** project. My main goal here was to build a system that's incredibly functional but still stays minimal and easy to manage.
 
-Aku udah usahain supaya kodenya terstruktur rapih dan bisa langsung dipake tanpa ribet. Feel free buat explore kodenya ya, dan kalau ada yang kurang pas, bisa diulik sendiri!
+I've structured the codebase to be neat and ready to use right out of the box. Feel free to poke around the code, explore how things are set up, and tweak it however you like!
 
 Cheers! ☕
